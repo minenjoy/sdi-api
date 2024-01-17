@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSDsRxRiHP81ZVC/V9CWkmHhoKri2GeE3zXQWQdPrVABEhNac4lolxgSnKpcnrUjlqk80DYWO5v5be3BABKD8Q==",
+  "success": true,
+  "projectFilePath": "E:\\source\\test api\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriele\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Gabriele\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriele\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
